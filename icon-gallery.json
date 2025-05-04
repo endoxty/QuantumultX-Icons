@@ -1,0 +1,10 @@
+{
+  "name": "Gemini Icon Set",
+  "description": "Custom Gemini icon for Quantumult X",
+  "icons": [
+    {
+      "name": "Gemini",
+      "url": "https://raw.githubusercontent.com/endoxty/QuantumultX-Icons/main/gemini.png"
+    }
+  ]
+}
